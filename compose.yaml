@@ -1,0 +1,6 @@
+
+services:
+  profit-calculator:
+    build: .
+    image: profit-calculator
+    container_name: profit-calculator-app
